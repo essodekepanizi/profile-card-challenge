@@ -50,17 +50,17 @@ table{
   border-width: 0px;
   border-color: hsl(0, 0%, 59%);
   margin: 160px auto;
-  width: 320px;
+  width: 340px;
   height: 350px;
   align-items: center;
   box-shadow: 0px 5px 10px hsl(227, 10%, 46%);
   position: absolute;
-  top: 0px;
-  left: 520px;
+  top: 10px;
+  left: 530px;
 }
 
 .pattern-card{
-  width: 320px;
+  width: 340px;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
 }
@@ -90,12 +90,12 @@ table{
 
 .bg-pattern-top{
   position: relative;
-  right: 320px;
+  right: 300px;
   bottom: 540px;
 }
 .bg-pattern-bottom{
   position: relative;
-  left: 650px;
+  left: 700px;
   bottom: 670px;
 }
   .attribution {
